@@ -1,4 +1,4 @@
 # newrepo-demo
-this is my first git repository.
+This is my first git repository.
 <br>
-authorname - Harish Reddy
+Authorname - N Harish Reddy (Student)
